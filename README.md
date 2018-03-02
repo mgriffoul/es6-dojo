@@ -194,6 +194,7 @@ this === window // true
 this === undefined // true (in strict mode)
 ```
 * En tant que méthode d'un objet, `this` fait référence à l'objet qui est propriétaire de la méthode.
+
 ```javascript
 var obj = {
   a: 2,
