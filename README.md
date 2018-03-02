@@ -205,6 +205,7 @@ var obj = {
 
 obj.func() === 2; // true
 ```
+
 La valeur de `this' dépend du contexte d'exécution de la fonction
 
 ```javascript
