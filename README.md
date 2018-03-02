@@ -388,6 +388,7 @@ console.log(obj2.c.d); // 7
 ```
 
 * Set
+
 ```javascript
 let s = new Set()
 s.add("hello").add("goodbye").add("hello");
@@ -399,6 +400,7 @@ for (let key of s.values()) console.log(key);
 ```
 
 * Map
+
 ```javascript
 var maMap = new Map();
 
