@@ -326,6 +326,7 @@ jQuery('#id').html(content);
 ```
 
 * Paramètres par défaut
+
 ```javascript
 function fn(a = 0, b = 1) {
   return a + b;
